@@ -1,0 +1,41 @@
+.label.linhachegada{
+    -fx-background-image: url("/assets/linha_chegada.png");
+    -fx-pref-width:10px;
+    -fx-pref-height:200px;
+}
+
+.button.bandeira {
+    -fx-background-image: url("/assets/bandeira.png");
+    -fx-pref-width:37px;
+    -fx-pref-height:38px;  
+}
+
+.button.cavalo1 {
+    -fx-background-image: url("/assets/cavalo1.png");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
+
+.button.cavalo2 {
+    -fx-background-image: url("/assets/cavalo2.png");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
+
+.button.cavalo3 {
+    -fx-background-image: url("/assets/cavalo3.png");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
+
+.button.cavalo4 {
+    -fx-background-image: url("/assets/cavalo4.png");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
+
+.button.cavalo5 {
+    -fx-background-image: url("/assets/cavalo5.png");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
