@@ -5,6 +5,12 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * Exemplo de execução de tarefas com Executor em SingleThread
+ *
+ * @author MarcusCSPereira
+ */
+
 public class Executors_SingleThread_Callable {
     public static void main(String[] args) throws Exception {
 
